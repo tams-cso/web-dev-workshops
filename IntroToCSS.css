@@ -90,7 +90,7 @@ body {
 }
 
 .info {
-    width: 20rem;
+  width: 20rem;
 }
 
 .anime {
@@ -117,7 +117,7 @@ body {
 
 .links {
   display: flex;
-  justify-content:center;
+  justify-content: center;
   color: blue;
 }
 
